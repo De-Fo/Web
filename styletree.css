@@ -90,3 +90,23 @@ animation: alternate-reverse 1s ease;
 }
 
 
+@media (max-width: 767px) {
+  .title {
+    text-align: center;
+  }
+  
+}
+
+@media (max-width: 767px) {
+  .links {
+    justify-content: center;
+  }
+  .link {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+}
+
+
